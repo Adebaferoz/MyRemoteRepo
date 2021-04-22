@@ -4,4 +4,8 @@ public class xyz
 	{
 		system.out.println("Just for Demo");
 	}
+public void someMethod()
+	{
+		system.out.println("From someMethod()");
+	}
 }
